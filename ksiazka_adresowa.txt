@@ -1,0 +1,15 @@
+4|2|Adam|Woronowicz|333111888|adam@woronowicz.pl|ul. Zakonna 5, Bialystok|
+6|2|Anna|Pakaszewska|5454545|rk|sad|
+1|1|Boguslaw|Linda|777333111|boguslaw@linda.pl|ul. Lotnikow 3a, Warszawa|
+2|1|Radoslaw|Pazura|666333111|radoslaw@pazura.pl|ul. 3 maja 3a, Lodz|
+5|1|Jakub|Gierszal|422121212|jakub@gierszal.pl|ul. Zwycieska 4, Warszawa|
+15|4|Krzysztof|Cetera|123445|vdfberdfs|dsvrefvf|
+16|4|Polomolo|Aasd|qfew|dsv||
+17|5|Krzys|Pakaszewski|234|23|23|
+18|5|Krzys|Cetera|34|34|34|
+19|5|Ania|Pakaszewska-Cetera|3|3|3|
+7|3|asd|asdwq|csdv|qws|qwesa|
+8|3|iiiiiiii|qwoud|vofi|qqqq|asjjc|
+9|3|Kama|Maja||3r2|fsd|
+10|3|asd|qwdqwd|qwddwq|qwdqwdwq|dwqdqdw|
+13|3|asd|qw|vsd|dgwe||
